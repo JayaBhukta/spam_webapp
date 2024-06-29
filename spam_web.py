@@ -1,8 +1,6 @@
 import streamlit as st
 import string
 import nltk
-import spacy
-spacy.load('en')
 nltk.download('punkt')
 nltk.download('stopwords')
 from sklearn.feature_extraction.text import CountVectorizer
