@@ -5,7 +5,7 @@ Often some messages triggers our phone either to mislead us or stole our informa
                  Description of repository files
  •  spam_web.py :: main app file
 
- •  spamclassifierwebapp.ipynb :: cloab notebook
+ •  spamclassifier_webapp.ipynb :: cloab notebook
 
  •  requirments.txt :: contains all the necessary libraries (required for deployment of model)
 
