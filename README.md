@@ -5,13 +5,13 @@ Often some messages triggers our phone either to mislead us or stole our informa
                  Description of repository files
  •  spam_web.py :: main app file
 
- •  spam_ipynb :: cloab notebook
+ •  spamclassifierwebapp.ipynb :: cloab notebook
 
  •  requirments.txt :: contains all the necessary libraries (required for deployment of model)
 
  •  vectorizer.sav :: contains the vectorizer object dumped as sav file
 
- •  spam_app.sav :: contains the desired model object dumped in sav file
+ •  spam_webapp.sav :: contains the desired model object dumped in sav file
 
               Tech stack used 👉
 	      Frontend : Python (Streamlit framework)
